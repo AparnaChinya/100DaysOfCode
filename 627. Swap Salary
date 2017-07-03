@@ -1,0 +1,12 @@
+627. Swap Salary 
+Short and Simple
+
+UPDATE salary
+    SET sex  = (CASE WHEN sex = 'm' 
+        THEN  'f' 
+        ELSE 'm' 
+        END)
+		
+		# Write your MySQL query statement below
+
+update salary set sex = case when sex='m' then 'f' else 'm' end
