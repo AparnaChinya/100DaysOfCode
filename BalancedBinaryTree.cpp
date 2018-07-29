@@ -54,3 +54,34 @@ public:
     }
 };
 
+********************************************************************
+// O(N) solution
+
+class Solution {
+public:
+    bool isBalanced(TreeNode* root) {
+        return isBalancedHelper(root) != INT_MIN;
+    }
+
+    int isBalancedHelper(TreeNode *root) {
+        if(root == NULL) {
+            return 0;
+        }
+
+        int leftHeight = isBalancedHelper(root->left);
+        if(leftHeight == INT_MIN) {
+            return INT_MIN;
+        }
+
+        int rightHeight = isBalancedHelper(root->right);
+        if(rightHeight == INT_MIN) {
+            return INT_MIN;
+        }
+
+        if(abs(leftHeight - rightHeight) > 1) {
+            return INT_MIN;
+        }
+        else
+        return max(leftHeight,rightHeight) + 1;
+    }
+};
