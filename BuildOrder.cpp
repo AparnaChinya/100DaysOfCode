@@ -2,97 +2,99 @@
 BuildOrder - given a list of Projects and dependencies, find build order for the projects to be built.
 
  */
-
 #include <iostream>
-#include <stdio.h>
-#include <stdlib.h>
-//Creating a graph class with total number of nodes, adjacency list, addEdge
+//Topological Sort
+
+// Graph class
 class Graph {
-    int nodes;
+    int numOfNodes;
     list<int> *adjacencyList;
 
     public:
-    Graph(int nodes);
-    void addEdge(int from, int to);
+    Graph(int numOfNodes);
+    void addEdges(int from, int to);
     void topologicalSort();
-    bool dfsHelper(int i, bool visited[], stack<int> &myStack,  bool recursionStack[]);
+    bool buildOrder(int nodeNumber, bool visited[],bool recurStack[], stack<int> &resultorder);
 };
 
-Graph::Graph(int nodes) {
-    this->nodes = nodes;
-    adjacencyList = new list<int>[nodes];
+//Initializing the number of nodes in the graph
+Graph::Graph(int numOfNodes) {
+    this->numOfNodes = numOfNodes;
+    adjacencyList = new list<int>[numOfNodes];
 }
-//Add edges
-void Graph::addEdge(int from, int to) {
+
+//Adding the edges in adjacency list
+void Graph::addEdges(int from, int to) {
     adjacencyList[from].push_back(to);
+}
+
+//Calling DFS for each unvisited node in the graph
+void Graph::topologicalSort() {
+    bool visited[numOfNodes] = {false};     //Keeps track of visited nodes in the graph
+    bool recuStack[numOfNodes] = {false};   // Keeps track of the recursion stack in the graph
+    stack<int> resultOrder;                 // Topological order of visit of the nodes
+    bool isCycle = false;
+
+    for(int i = 0; i < numOfNodes; i++) {
+        if(buildOrder(i,visited,recuStack,resultOrder)) {
+            isCycle = true;
+            break;
+        }
+    }
+    if(!isCycle) {
+        cout << "Order of build of the projects: \n";
+        while(!resultOrder.empty()) {
+            cout << (char)('a' + resultOrder.top()) << " ";
+            resultOrder.pop();
+        }
+        return;
+    } else {
+        cout << "There is circular dependency!";
+        return;
+    }
+
 
 }
 
-// Adds nodes to stack in topological form, return false if there is a cycle
-bool Graph::dfsHelper(int i, bool visited[], stack<int> &myStack, bool recursionStack[]) {
+//This is where all the magic happens!
+bool Graph::buildOrder(int nodeNumber, bool visited[],bool recurStack[], stack<int> &resultOrder) {
 
-    if(visited[i] == false) {
+    if(!visited[nodeNumber]) {
+        visited[nodeNumber] = true;
+        recurStack[nodeNumber] = true;
 
-        recursionStack[i] = true;
-        visited[i] = true;
-
-        for(auto j = adjacencyList[i].begin(); j != adjacencyList[i].end(); j++) {
-            if(!visited[*j] && dfsHelper(*j,visited,myStack,recursionStack)){
+        //For each edge of the node
+        for(auto i = adjacencyList[nodeNumber].begin(); i != adjacencyList[nodeNumber].end();i++) {
+            if(!visited[*i] && buildOrder(*i,visited,recurStack,resultOrder)) {
                 return true;
-            } else if(recursionStack[*j]) {
+            } else if(recurStack[*i]) {
                 return true;
             }
         }
-        myStack.push(i);
-
+        //Add the node to the topological sorting order
+        resultOrder.push(nodeNumber);
     }
-    recursionStack[i] = false;
+    recurStack[nodeNumber] = false;
     return false;
 }
 
-void Graph::topologicalSort(){
 
-    bool visited[nodes] = {false};
-    bool recursionStack[nodes] = {false};
-    stack<int> myStack;
-    bool isCycle = false;
-
-    // Applies DFS on the graph while keeping track of the recursionStack to check for cycles
-    // myStack contains the nodes in topologicalForm
-    for(int i = 0; i < nodes; i++) {
-            if(dfsHelper(i,visited,myStack,recursionStack)) {
-                isCycle = true;
-                break;
-            }
-    }
-
-    while(!myStack.empty() && !isCycle) {
-
-        cout << (char) ('a' + myStack.top()) << " ";
-        myStack.pop();
-    }
-    if(isCycle) {
-        cout << "-1";
-    }
-}
 
 int main() {
-    //BuildOrder
+    std::cout << "Hello World!\n";
     vector<char> projects = {'a','b','c','d','e','f'};
-    vector<vector<char>> dependency = {{'d','a'},{'b','f'},{'d','b'},{'a','f'},{'c','d'}};
+    vector<vector<char>> dependencies = {{'d','a'},{'b','f'},{'d','b'},{'a','f'},{'c','d'}};
 
-    //Form the graph
+    // Assiging each project as a node in the graph
     Graph g(projects.size());
-    for(int i=0; i < dependency.size(); i++) {
-        cout << dependency[i][0] << "->" << dependency[i][1] << endl;
-        g.addEdge(dependency[i][0]-'a',dependency[i][1]-'a');
+
+    // Assigning each dependency as an edge in the directed graph.
+    cout << "Adding Edges...\n";
+    for(int i = 0; i < dependencies.size(); i++) {
+        cout << dependencies[i][0] << " -> " << dependencies[i][1] << endl;
+        g.addEdges(dependencies[i][0]-'a',dependencies[i][1]-'a');
     }
 
+    //TopologicalSort
     g.topologicalSort();
 }
-
-
-
-
-
-
