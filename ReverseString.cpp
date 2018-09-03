@@ -1,29 +1,32 @@
 /*
-
+ * Reverse String
+  Go to Discuss
 Write a function that takes a string as input and returns the string reversed.
-Example:
-Given s = "hello", return "olleh".
 
-From <https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1183/>  */
+Example 1:
+
+Input: "hello"
+Output: "olleh"
+Example 2:
+
+Input: "A man, a plan, a canal: Panama"
+Output: "amanaP :lanac a ,nalp a ,nam A"
+ */
 class Solution {
 public:
     string reverseString(string s) {
+        int start = 0;
+        int end = s.length() - 1;
 
-        int endPointer = s.size()-1;
-        if(s.length() == 0 || s.length() == 1) {
-            return s;
-        }
-        // Traverse half while simultaneously switching in the first and end index alphabets
-        for(int i = 0; i < s.length()/2; i++) {
-            char temp = s[endPointer];
-            s[endPointer] = s[i];
-            s[i] = temp;
-            endPointer--;
-        }
+        while(start < end) {
+            char temp = s[start];
+            s[start] = s[end];
+            s[end] = temp;
 
+            //Increment and decrement inside the while loop instead of in the statement
+            start++;
+            end--;
+        }
         return s;
     }
 };
-
-
-
