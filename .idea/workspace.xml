@@ -10,8 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="292ec6de-6c49-49a0-9bd0-e42e1a4f93ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/N-aryTreeLevelOrderTraversal.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3SumClosest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/3SumClosest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/79. Word Search.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/79. Word Search.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,22 +23,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PerfectSquares.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PerfectSquares.cpp">
+      <file leaf-file-name="3SumSmaller.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3SumSmaller.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="629">
+              <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="N-aryTreeLevelOrderTraversal.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/N-aryTreeLevelOrderTraversal.cpp">
+      <file leaf-file-name="7-ReverseInteger.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7-ReverseInteger.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="WordSearchII.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WordSearchII.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="1224">
+              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordLadder.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WordLadder.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="79. Word Search.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/79. Word Search.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="25" selection-start-line="29" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="217. Contains Duplicate.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/217. Contains Duplicate.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="690. Employee Importance.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/690. Employee Importance.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4020RemoveKDigits.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4020RemoveKDigits.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="linkedListCycle.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linkedListCycle.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -48,57 +96,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ContainerWithMostWater.cpp" />
-        <option value="$PROJECT_DIR$/FindTheCelebrity.cpp" />
-        <option value="$PROJECT_DIR$/CompareVersionNumbers.cpp" />
-        <option value="$PROJECT_DIR$/ManhattanDistance.cpp" />
-        <option value="$PROJECT_DIR$/AutoCompletion.cpp" />
-        <option value="$PROJECT_DIR$/LongestIncreasingPath.cpp" />
-        <option value="$PROJECT_DIR$/WordSearchII.cpp" />
-        <option value="$PROJECT_DIR$/EditDistance.cpp" />
-        <option value="$PROJECT_DIR$/MajorityElementII.cpp" />
-        <option value="$PROJECT_DIR$/SudokuSolver.cpp" />
-        <option value="$PROJECT_DIR$/JumpGameII.cpp" />
-        <option value="$PROJECT_DIR$/AddOneToTree.cpp" />
-        <option value="$PROJECT_DIR$/LargestRectangleInHistogram.cpp" />
-        <option value="$PROJECT_DIR$/IntegerToEnglishWords.cpp" />
-        <option value="$PROJECT_DIR$/FindRightNextNode.cpp" />
-        <option value="$PROJECT_DIR$/MaximalRectangle.cpp" />
-        <option value="$PROJECT_DIR$/CopyWithRandomPointer.cpp" />
-        <option value="$PROJECT_DIR$/TicTacToe.cpp" />
-        <option value="$PROJECT_DIR$/SwapNodesInPairs.cpp" />
-        <option value="$PROJECT_DIR$/RectangleArea.cpp" />
-        <option value="$PROJECT_DIR$/RectangleOverLap.cpp" />
-        <option value="$PROJECT_DIR$/WiggleSort.cpp" />
-        <option value="$PROJECT_DIR$/ImplementQueuesUsingStacks.cpp" />
-        <option value="$PROJECT_DIR$/ImplementStacksUsingQueues.cpp" />
-        <option value="$PROJECT_DIR$/TrimBST.cpp" />
-        <option value="$PROJECT_DIR$/SumOfAllLeftLeafNodes.cpp" />
-        <option value="$PROJECT_DIR$/OneEditDistance.cpp" />
-        <option value="$PROJECT_DIR$/DesignTinyUrl.cpp" />
-        <option value="$PROJECT_DIR$/EncodeAndDecodeStrings.cpp" />
-        <option value="$PROJECT_DIR$/MostCommonWord.cpp" />
-        <option value="$PROJECT_DIR$/MaxSizeSubArraySumEqualsK.cpp" />
-        <option value="$PROJECT_DIR$/SumRootToLeaf.cpp" />
-        <option value="$PROJECT_DIR$/BinaryTreeVerticalOrderTraversal.cpp" />
-        <option value="$PROJECT_DIR$/InOrderSuccessorOfBST.cpp" />
-        <option value="$PROJECT_DIR$/GraphATree.cpp" />
-        <option value="$PROJECT_DIR$/TwoSumIV.cpp" />
-        <option value="$PROJECT_DIR$/MaximumBinaryTree.cpp" />
-        <option value="$PROJECT_DIR$/ClosestBinaryTreeValue.cpp" />
-        <option value="$PROJECT_DIR$/BinarySearchTreeIterator.cpp" />
-        <option value="$PROJECT_DIR$/MinCostClimbingStairs.cpp" />
-        <option value="$PROJECT_DIR$/JewelsAndStones.cpp" />
-        <option value="$PROJECT_DIR$/BaseBallGame.cpp" />
-        <option value="$PROJECT_DIR$/PartitionLabels.cpp" />
-        <option value="$PROJECT_DIR$/RecoverBinarySearchTree.cpp" />
-        <option value="$PROJECT_DIR$/MaxDepthOfNAryTree.cpp" />
-        <option value="$PROJECT_DIR$/BinaryTreeLevelOrderTraversalIII.cpp" />
-        <option value="$PROJECT_DIR$/TopKFrequentWords.cpp" />
-        <option value="$PROJECT_DIR$/MiddleOfLinkedList.cpp" />
-        <option value="$PROJECT_DIR$/AddBoundaryOfBinaryTree.cpp" />
-        <option value="$PROJECT_DIR$/PerfectSquares.cpp" />
-        <option value="$PROJECT_DIR$/N-aryTreeLevelOrderTraversal.cpp" />
+        <option value="$PROJECT_DIR$/LongestSubstringWithTwoDistinctChars.cpp" />
+        <option value="$PROJECT_DIR$/LongestSubstringWithKDistinctChars.cpp" />
+        <option value="$PROJECT_DIR$/ShortestDistance.cpp" />
+        <option value="$PROJECT_DIR$/MinimumPathSum.cpp" />
+        <option value="$PROJECT_DIR$/BinaryTreeConsecutiveSequence.cpp" />
+        <option value="$PROJECT_DIR$/KDifferentPairsInAnArray.cpp" />
+        <option value="$PROJECT_DIR$/MinimumAbsoluteDifferenceInBST.cpp" />
+        <option value="$PROJECT_DIR$/Minesweeper.cpp" />
+        <option value="$PROJECT_DIR$/InterleavingString.cpp" />
+        <option value="$PROJECT_DIR$/3SumSmaller.cpp" />
+        <option value="$PROJECT_DIR$/ValidTriangleNumber.cpp" />
+        <option value="$PROJECT_DIR$/PrimeNumberOfSetBits.cpp" />
+        <option value="$PROJECT_DIR$/SingleNumberII.cpp" />
+        <option value="$PROJECT_DIR$/ThirdMaxNumber.cpp" />
+        <option value="$PROJECT_DIR$/GameOfLife.cpp" />
+        <option value="$PROJECT_DIR$/ImageSmoother.cpp" />
+        <option value="$PROJECT_DIR$/SetMismatch.cpp" />
+        <option value="$PROJECT_DIR$/RepeatedSubstringPattern.cpp" />
+        <option value="$PROJECT_DIR$/SmallestLetterGreaterThanTarget.cpp" />
+        <option value="$PROJECT_DIR$/WordLadder.cpp" />
+        <option value="$PROJECT_DIR$/MinimumGeneticMutation.cpp" />
+        <option value="$PROJECT_DIR$/RobotRoomCleaner.cpp" />
+        <option value="$PROJECT_DIR$/NextPermutation.cpp" />
+        <option value="$PROJECT_DIR$/REstoreIPAddresses.cpp" />
+        <option value="$PROJECT_DIR$/CircularQueue.cpp" />
+        <option value="$PROJECT_DIR$/ReconstructItineary.cpp" />
+        <option value="$PROJECT_DIR$/Dailytemperature.cpp" />
+        <option value="$PROJECT_DIR$/RepeatedDNASequences.cpp" />
+        <option value="$PROJECT_DIR$/GasStation.cpp" />
+        <option value="$PROJECT_DIR$/CheapestFlightsWithinKStops.cpp" />
+        <option value="$PROJECT_DIR$/CountOfSmallerNumbersAfterSelf.cpp" />
+        <option value="$PROJECT_DIR$/NumbersDisappearedInArray.cpp" />
+        <option value="$PROJECT_DIR$/SubarraySumEqualsK.cpp" />
+        <option value="$PROJECT_DIR$/MaximumWidthOfABinaryTree.cpp" />
+        <option value="$PROJECT_DIR$/PartitionToEquakSubsetSum.cpp" />
+        <option value="$PROJECT_DIR$/SParseMatrix.cpp" />
+        <option value="$PROJECT_DIR$/FactorCombinations.cpp" />
+        <option value="$PROJECT_DIR$/KEmptySlots.cpp" />
+        <option value="$PROJECT_DIR$/BattleShipsOnBoard.cpp" />
+        <option value="$PROJECT_DIR$/BulbSwitcher.cpp" />
+        <option value="$PROJECT_DIR$/BulbSeitcherII.cpp" />
+        <option value="$PROJECT_DIR$/364. Nested List Weight Sum II.cpp" />
+        <option value="$PROJECT_DIR$/690. Employee Importance.cpp" />
+        <option value="$PROJECT_DIR$/213. House Robber II.cpp" />
+        <option value="$PROJECT_DIR$/ValidNumber.cpp" />
+        <option value="$PROJECT_DIR$/N-arySerialization.cpp" />
+        <option value="$PROJECT_DIR$/DeleteOneString.cpp" />
+        <option value="$PROJECT_DIR$/TextJustification.cpp" />
+        <option value="$PROJECT_DIR$/BinaryTreeUpsideDown.cpp" />
+        <option value="$PROJECT_DIR$/3SumClosest.cpp" />
+        <option value="$PROJECT_DIR$/79. Word Search.cpp" />
       </list>
     </option>
   </component>
@@ -111,7 +159,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -173,7 +221,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" />
+    <configuration name="Main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" EXPLICIT_BUILD_TARGET_NAME="all" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -196,7 +244,18 @@
       <workItem from="1537829195169" duration="8000" />
       <workItem from="1538783900851" duration="8398000" />
       <workItem from="1539236232103" duration="713000" />
-      <workItem from="1539391172733" duration="4934000" />
+      <workItem from="1539391172733" duration="9665000" />
+      <workItem from="1539574133688" duration="7503000" />
+      <workItem from="1539905006753" duration="26519000" />
+      <workItem from="1540782053920" duration="13410000" />
+      <workItem from="1540949223780" duration="17256000" />
+      <workItem from="1541294228422" duration="4002000" />
+      <workItem from="1541578383488" duration="1287000" />
+      <workItem from="1541710213303" duration="3212000" />
+      <workItem from="1541903727750" duration="6737000" />
+      <workItem from="1542322664009" duration="607000" />
+      <workItem from="1542526240234" duration="4801000" />
+      <workItem from="1542769786046" duration="554000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Day40&quot;">
       <created>1539467815152</created>
@@ -205,23 +264,29 @@
       <option name="project" value="LOCAL" />
       <updated>1539467815152</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Day41&quot;">
+      <created>1539546212745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539546212745</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114182000" />
+    <option name="totallyTimeSpent" value="204801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2514881" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50073206" side_tool="true" weight="0.27344993" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32933104" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49926794" visible="true" weight="0.48027444" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49926794" visible="true" weight="0.31560892" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -241,7 +306,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Day40&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Day40&quot;" />
+    <MESSAGE value="&quot;Day41&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Day41&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -256,356 +322,344 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AutoCompletion.cpp">
+    <entry file="file://$PROJECT_DIR$/PrimeNumberOfSetBits.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="74">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ManhattanDistance.cpp">
+    <entry file="file://$PROJECT_DIR$/SingleNumberII.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
+        <state relative-caret-position="278">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CompareVersionNumbers.cpp">
+    <entry file="file://$PROJECT_DIR$/ThirdMaxNumber.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindTheCelebrity.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="278">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EditDistance.cpp">
+    <entry file="file://$PROJECT_DIR$/GameOfLife.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageSmoother.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SetMismatch.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RepeatedSubstringPattern.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmallestLetterGreaterThanTarget.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MinimumGeneticMutation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RobotRoomCleaner.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextPermutation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REstoreIPAddresses.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CircularQueue.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReconstructItineary.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dailytemperature.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RepeatedDNASequences.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GasStation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheapestFlightsWithinKStops.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CountOfSmallerNumbersAfterSelf.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumbersDisappearedInArray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SubarraySumEqualsK.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumWidthOfABinaryTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PartitionToEquakSubsetSum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SParseMatrix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KEmptySlots.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FactorCombinations.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
           <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MajorityElementII.cpp">
+    <entry file="file://$PROJECT_DIR$/BattleShipsOnBoard.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="556">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LRUCache.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindPivotIndex.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SudokuSolver.cpp">
+    <entry file="file://$PROJECT_DIR$/364. Nested List Weight Sum II.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        <state relative-caret-position="185">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JumpGameII.cpp">
+    <entry file="file://$PROJECT_DIR$/BulbSeitcherII.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="332">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/BulbSwitcher.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="332">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddOneToTree.cpp">
+    <entry file="file://$PROJECT_DIR$/213. House Robber II.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="270">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LargestRectangleInHistogram.cpp">
+    <entry file="file://$PROJECT_DIR$/ValidTriangleNumber.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="697">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FindRightNextNode.cpp">
+    <entry file="file://$PROJECT_DIR$/ValidNumber.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        <state relative-caret-position="1513">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntegerToEnglishWords.cpp">
+    <entry file="file://$PROJECT_DIR$/N-arySerialization.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="270">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MaximalRectangle.cpp">
+    <entry file="file://$PROJECT_DIR$/DeleteOneString.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="189">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CopyWithRandomPointer.cpp">
+    <entry file="file://$PROJECT_DIR$/TextJustification.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="189">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TicTacToe.cpp">
+    <entry file="file://$PROJECT_DIR$/BinaryTreeUpsideDown.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SwapNodesInPairs.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RectangleArea.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RectangleOverLap.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WiggleSort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImplementQueuesUsingStacks.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImplementStacksUsingQueues.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TrimBST.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SumOfAllLeftLeafNodes.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OneEditDistance.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignTinyUrl.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EncodeAndDecodeStrings.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MostCommonWord.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaxSizeSubArraySumEqualsK.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTreeVerticalOrderTraversal.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InOrderSuccessorOfBST.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GraphATree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoSumIV.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumBinaryTree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SumRootToLeaf.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClosestBinaryTreeValue.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="271">
           <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearchTreeIterator.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-        </state>
+        <state relative-caret-position="-454" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MinCostClimbingStairs.cpp">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BaseBallGame.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="99" column="26" lean-forward="true" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JewelsAndStones.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PartitionLabels.cpp">
+    <entry file="file://$PROJECT_DIR$/1-TwoSum.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RecoverBinarySearchTree.cpp">
+    <entry file="file://$PROJECT_DIR$/2-AddTwoNumbers.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="-487" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3SumClosest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MaxDepthOfNAryTree.cpp">
+    <entry file="file://$PROJECT_DIR$/217. Contains Duplicate.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/690. Employee Importance.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="799">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversalIII.cpp">
+    <entry file="file://$PROJECT_DIR$/4020RemoveKDigits.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkedListCycle.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3SumSmaller.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="629">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TopKFrequentWords.cpp">
+    <entry file="file://$PROJECT_DIR$/7-ReverseInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/79. Word Search.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="493">
+          <caret line="29" column="25" selection-start-line="29" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MiddleOfLinkedList.cpp">
+    <entry file="file://$PROJECT_DIR$/WordSearchII.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="1224">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AddBoundaryOfBinaryTree.cpp">
+    <entry file="file://$PROJECT_DIR$/WordLadder.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PerfectSquares.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N-aryTreeLevelOrderTraversal.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="986">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
         </state>
       </provider>
     </entry>
