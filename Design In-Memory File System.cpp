@@ -23,7 +23,6 @@ Note:
 
 From <https://leetcode.com/problems/design-in-memory-file-system/description/#_=_>
 */
-
 class FileSystem {
 public:
     struct TrieNode {
@@ -41,14 +40,11 @@ public:
 
     vector<string> getPath(string &path) {
         vector<string> ans;
-        int  i =1; int j = 1;
-
-        while(j <= path.length()) {
-            if(i!=j && (j == path.length() || path[j] == '/')) {
-                ans.push_back(path.substr(i,j-i));
-                i = j+1;
-            }
-            j++;
+        stringstream ss(path);
+        string line = "";
+        while(getline(ss,line,'/')) {
+            cout << line;
+            if(line != "") ans.push_back(line);
         }
         return ans;
     }
@@ -115,4 +111,3 @@ public:
  * obj.addContentToFile(filePath,content);
  * string param_4 = obj.readContentFromFile(filePath);
  */
-
