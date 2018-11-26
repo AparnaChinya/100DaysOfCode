@@ -28,6 +28,8 @@ public:
         }
 
         reverse(nums.begin()+last+1,nums.end());
+
+        //        next_permutation(nums.begin(),nums.end());g
     }
 };
 

@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="292ec6de-6c49-49a0-9bd0-e42e1a4f93ea" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/206. Reverse Linked Lis.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/206. Reverse Linked Lis.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NextPermutation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NextPermutation.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Design In-Memory File System.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design In-Memory File System.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1904">
-              <caret line="112" column="3" selection-start-line="112" selection-start-column="3" selection-end-line="112" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LFU.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LFU.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +93,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="206. Reverse Linked Lis.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="206. Reverse Linked Lis.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/206. Reverse Linked Lis.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+            <state relative-caret-position="240">
+              <caret line="50" column="43" lean-forward="true" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NextPermutation.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NextPermutation.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -120,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GasStation.cpp" />
         <option value="$PROJECT_DIR$/CheapestFlightsWithinKStops.cpp" />
         <option value="$PROJECT_DIR$/CountOfSmallerNumbersAfterSelf.cpp" />
         <option value="$PROJECT_DIR$/NumbersDisappearedInArray.cpp" />
@@ -171,6 +169,7 @@
         <option value="$PROJECT_DIR$/OrderllyQueue.cpp" />
         <option value="$PROJECT_DIR$/DesignTwitter.cpp" />
         <option value="$PROJECT_DIR$/206. Reverse Linked Lis.cpp" />
+        <option value="$PROJECT_DIR$/NextPermutation.cpp" />
       </list>
     </option>
   </component>
@@ -280,7 +279,7 @@
       <workItem from="1542322664009" duration="607000" />
       <workItem from="1542526240234" duration="4801000" />
       <workItem from="1542769786046" duration="19792000" />
-      <workItem from="1543135798503" duration="36000" />
+      <workItem from="1543135798503" duration="1320000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Day40&quot;">
       <created>1539467815152</created>
@@ -300,7 +299,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224075000" />
+    <option name="totallyTimeSpent" value="225359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -312,7 +311,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32933104" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49926794" visible="true" weight="0.2109777" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49926794" visible="true" weight="0.33447686" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -352,13 +351,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BulbSeitcherII.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BulbSwitcher.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -684,8 +676,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/206. Reverse Linked Lis.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+        <state relative-caret-position="240">
+          <caret line="50" column="43" lean-forward="true" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextPermutation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
         </state>
       </provider>
     </entry>
