@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="292ec6de-6c49-49a0-9bd0-e42e1a4f93ea" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/NextPalindromePermutation.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,83 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindKPairWithSmallestSums.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FindKPairWithSmallestSums.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsSubsequence.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IsSubsequence.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZigZagConversion.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZigZagConversion.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InvertBinaryTree.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InvertBinaryTree.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderllyQueue.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OrderllyQueue.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesignTwitter.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignTwitter.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="96" selection-start-line="96" selection-end-line="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="206. Reverse Linked Lis.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/206. Reverse Linked Lis.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="50" column="43" lean-forward="true" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+              <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NextPermutation.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NextPermutation.cpp">
+      <file leaf-file-name="NextPalindromePermutation.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NextPalindromePermutation.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="406. Queue Reconstruction by Height .cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/406. Queue Reconstruction by Height .cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -119,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CountOfSmallerNumbersAfterSelf.cpp" />
         <option value="$PROJECT_DIR$/NumbersDisappearedInArray.cpp" />
         <option value="$PROJECT_DIR$/SubarraySumEqualsK.cpp" />
         <option value="$PROJECT_DIR$/MaximumWidthOfABinaryTree.cpp" />
@@ -170,6 +107,7 @@
         <option value="$PROJECT_DIR$/206. Reverse Linked Lis.cpp" />
         <option value="$PROJECT_DIR$/NextPermutation.cpp" />
         <option value="$PROJECT_DIR$/406. Queue Reconstruction by Height .cpp" />
+        <option value="$PROJECT_DIR$/NextPalindromePermutation.cpp" />
       </list>
     </option>
   </component>
@@ -182,7 +120,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -222,7 +160,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/LeetCode" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/codebase" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -279,7 +217,8 @@
       <workItem from="1542322664009" duration="607000" />
       <workItem from="1542526240234" duration="4801000" />
       <workItem from="1542769786046" duration="19792000" />
-      <workItem from="1543135798503" duration="3243000" />
+      <workItem from="1543135798503" duration="3304000" />
+      <workItem from="1543605311883" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Day40&quot;">
       <created>1539467815152</created>
@@ -299,10 +238,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227282000" />
+    <option name="totallyTimeSpent" value="228082000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2514881" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -350,13 +290,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/213. House Robber II.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ValidTriangleNumber.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -661,15 +594,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DesignTwitter.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="1632">
           <caret line="96" selection-start-line="96" selection-end-line="96" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/206. Reverse Linked Lis.cpp">
+    <entry file="file://$PROJECT_DIR$/406. Queue Reconstruction by Height .cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="50" column="43" lean-forward="true" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        <state relative-caret-position="95">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -680,10 +613,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/406. Queue Reconstruction by Height .cpp">
+    <entry file="file://$PROJECT_DIR$/206. Reverse Linked Lis.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="240">
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextPalindromePermutation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
