@@ -10,8 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fff8fe-ed7f-4a5a-91d3-8498bc6f2102" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/UniqueBinarySearchTrees.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniqueBinaryTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/766. Toeplitz Matrix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/830. Positions of Large Groups.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlippingAnImage.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumDistanceToClosestPerson.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumSubarraySum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidWorSquare.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadNCharacters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ReadNCharacters.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,10 +42,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UniqueBinarySearchTrees.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UniqueBinarySearchTrees.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UniqueBinarySearchTrees.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadNCharacters.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadNCharacters.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlippingAnImage.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlippingAnImage.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="766. Toeplitz Matrix.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/766. Toeplitz Matrix.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="48" column="20" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="48" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidWorSquare.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ValidWorSquare.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="830. Positions of Large Groups.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/830. Positions of Large Groups.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumDistanceToClosestPerson.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MaximumDistanceToClosestPerson.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumSubarraySum.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MaximumSubarraySum.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
               <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
@@ -55,6 +124,13 @@
       <list>
         <option value="$PROJECT_DIR$/UniqueBinaryTree.cpp" />
         <option value="$PROJECT_DIR$/UniqueBinarySearchTrees.cpp" />
+        <option value="$PROJECT_DIR$/ReadNCharacters.cpp" />
+        <option value="$PROJECT_DIR$/FlippingAnImage.cpp" />
+        <option value="$PROJECT_DIR$/766. Toeplitz Matrix.cpp" />
+        <option value="$PROJECT_DIR$/ValidWorSquare.cpp" />
+        <option value="$PROJECT_DIR$/830. Positions of Large Groups.cpp" />
+        <option value="$PROJECT_DIR$/MaximumDistanceToClosestPerson.cpp" />
+        <option value="$PROJECT_DIR$/MaximumSubarraySum.cpp" />
       </list>
     </option>
   </component>
@@ -72,6 +148,9 @@
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -119,16 +198,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543797260466</updated>
-      <workItem from="1543797266171" duration="1304000" />
+      <workItem from="1543797266171" duration="6608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1304000" />
+    <option name="totallyTimeSpent" value="6608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -136,7 +214,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32933104" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.54545456" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -168,6 +246,55 @@
     <entry file="file://$PROJECT_DIR$/UniqueBinarySearchTrees.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadNCharacters.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlippingAnImage.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/766. Toeplitz Matrix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="48" column="20" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ValidWorSquare.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/830. Positions of Large Groups.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumDistanceToClosestPerson.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumSubarraySum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
