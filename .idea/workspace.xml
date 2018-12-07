@@ -10,11 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fff8fe-ed7f-4a5a-91d3-8498bc6f2102" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/BackSpaceStringCompare.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HandOfStraights.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/InsertIntoBST.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RandomPickIndex.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/RevealCardsInIncreasingOrder.cpp" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicates.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UniqueEmailAddress.cpp" afterDir="false" />
+>>>>>>> 9602dd6547ebac9a9d2d580f03249d21fa94611c
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,6 +31,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="MaximumSubarraySum.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MaximumSubarraySum.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,6 +61,10 @@
       </file>
       <file leaf-file-name="RemoveDuplicates.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RemoveDuplicates.cpp">
+=======
+      <file leaf-file-name="FlippingAnImage.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlippingAnImage.cpp">
+>>>>>>> 9602dd6547ebac9a9d2d580f03249d21fa94611c
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="156">
               <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
@@ -101,17 +111,54 @@
       <file leaf-file-name="RandomPickIndex.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RandomPickIndex.cpp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="156">
               <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+=======
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+>>>>>>> 9602dd6547ebac9a9d2d580f03249d21fa94611c
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="BackSpaceStringCompare.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BackSpaceStringCompare.cpp">
+=======
+      <file leaf-file-name="LengthOfLongestFibonacciSequence.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LengthOfLongestFibonacciSequence.cpp">
+>>>>>>> 9602dd6547ebac9a9d2d580f03249d21fa94611c
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="156">
               <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EvaluateDivision.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EvaluateDivision.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicates.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RemoveDuplicates.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniqueEmailAddress.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UniqueEmailAddress.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -137,11 +184,14 @@
         <option value="$PROJECT_DIR$/EvaluateDivision.cpp" />
         <option value="$PROJECT_DIR$/RemoveDuplicates.cpp" />
         <option value="$PROJECT_DIR$/UniqueEmailAddress.cpp" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/RevealCardsInIncreasingOrder.cpp" />
         <option value="$PROJECT_DIR$/HandOfStraights.cpp" />
         <option value="$PROJECT_DIR$/InsertIntoBST.cpp" />
         <option value="$PROJECT_DIR$/RandomPickIndex.cpp" />
         <option value="$PROJECT_DIR$/BackSpaceStringCompare.cpp" />
+=======
+>>>>>>> 9602dd6547ebac9a9d2d580f03249d21fa94611c
       </list>
     </option>
   </component>
@@ -211,24 +261,32 @@
       <updated>1543797260466</updated>
       <workItem from="1543797266171" duration="7232000" />
       <workItem from="1544039759446" duration="2542000" />
+<<<<<<< HEAD
       <workItem from="1544138468451" duration="4317000" />
+=======
+      <workItem from="1544138468451" duration="632000" />
+>>>>>>> 9602dd6547ebac9a9d2d580f03249d21fa94611c
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="14091000" />
+=======
+    <option name="totallyTimeSpent" value="10406000" />
+>>>>>>> 9602dd6547ebac9a9d2d580f03249d21fa94611c
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.54545456" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.54545456" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -477,6 +535,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/RevealCardsInIncreasingOrder.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -512,5 +571,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 9602dd6547ebac9a9d2d580f03249d21fa94611c
   </component>
 </project>
